@@ -1,3 +1,5 @@
 django
 flet
 flet-django
+flet-web
+flet-desktop
